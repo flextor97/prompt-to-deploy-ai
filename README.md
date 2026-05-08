@@ -1,10 +1,11 @@
 # PromptToDeploy AI
 
-One prompt → Canva design + assets → Google Drive → Next.js code → Vercel live deployment + Gmail notification.
+**One prompt → Branded Canva design → Live website on Vercel**
 
 ## How to use
-1. Run locally or on Vercel
-2. Enter natural language prompt
-3. Watch the magic (integrations wired to your connected accounts)
+1. Enter your prompt
+2. Get optimized Canva Magic Studio prompt
+3. Export design to Google Drive
+4. Auto-generate code & deploy
 
-Built using your Canva + Drive + GitHub + Vercel + Gmail connectors.
+Built using your connected tools: Drive + Canva + GitHub + Vercel + Gmail.
